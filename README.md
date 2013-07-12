@@ -1,4 +1,4 @@
-Biographie
-==========
+RapidNews
+=========
 
-Biographie
+To publish rapid news ....
